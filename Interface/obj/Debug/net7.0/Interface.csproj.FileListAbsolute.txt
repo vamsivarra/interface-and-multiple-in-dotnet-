@@ -1,0 +1,15 @@
+/Users/dundi/Projects/26.7/Interface/obj/Debug/net7.0/Interface.csproj.AssemblyReference.cache
+/Users/dundi/Projects/26.7/Interface/obj/Debug/net7.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dundi/Projects/26.7/Interface/obj/Debug/net7.0/Interface.AssemblyInfoInputs.cache
+/Users/dundi/Projects/26.7/Interface/obj/Debug/net7.0/Interface.AssemblyInfo.cs
+/Users/dundi/Projects/26.7/Interface/obj/Debug/net7.0/Interface.csproj.CoreCompileInputs.cache
+/Users/dundi/Projects/26.7/Interface/bin/Debug/net7.0/Interface
+/Users/dundi/Projects/26.7/Interface/bin/Debug/net7.0/Interface.deps.json
+/Users/dundi/Projects/26.7/Interface/bin/Debug/net7.0/Interface.runtimeconfig.json
+/Users/dundi/Projects/26.7/Interface/bin/Debug/net7.0/Interface.dll
+/Users/dundi/Projects/26.7/Interface/bin/Debug/net7.0/Interface.pdb
+/Users/dundi/Projects/26.7/Interface/obj/Debug/net7.0/Interface.dll
+/Users/dundi/Projects/26.7/Interface/obj/Debug/net7.0/refint/Interface.dll
+/Users/dundi/Projects/26.7/Interface/obj/Debug/net7.0/Interface.pdb
+/Users/dundi/Projects/26.7/Interface/obj/Debug/net7.0/Interface.genruntimeconfig.cache
+/Users/dundi/Projects/26.7/Interface/obj/Debug/net7.0/ref/Interface.dll
